@@ -1,4 +1,4 @@
-module cart
+module github.com/2098173356/cart
 
 go 1.18
 
